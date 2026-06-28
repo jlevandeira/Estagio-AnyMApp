@@ -1,0 +1,79 @@
+﻿session_id;page_title;time_enter;event_Type;timestamp;click_x;click_y;eventInfo;eventValue;elementType;operative_system;browser
+Sessao_th8519byn;1_intro.html;2026-06-28T16:00:00.485Z;click;2026-06-28T16:00:02.434Z;496;320;entrar_btn;INICIAR;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;2_initial_questions.html;2026-06-28T16:00:02.532Z;click;2026-06-28T16:00:03.847Z;554;116;18-25;18-25;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;2_initial_questions.html;2026-06-28T16:00:02.532Z;click;2026-06-28T16:00:04.837Z;520;308;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;2_initial_questions.html;2026-06-28T16:00:02.532Z;click;2026-06-28T16:00:04.837Z;520;308;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;3_initial_questions.html;2026-06-28T16:00:04.945Z;click;2026-06-28T16:00:06.357Z;500;172;um_pouco;Um pouco;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;3_initial_questions.html;2026-06-28T16:00:04.945Z;click;2026-06-28T16:00:07.241Z;533;338;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;3_initial_questions.html;2026-06-28T16:00:04.945Z;click;2026-06-28T16:00:07.241Z;533;338;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;4_initial_questions.html;2026-06-28T16:00:07.307Z;click;2026-06-28T16:00:09.848Z;500;234;sim;Sim;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;4_initial_questions.html;2026-06-28T16:00:07.307Z;click;2026-06-28T16:00:10.862Z;524;319;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;4_initial_questions.html;2026-06-28T16:00:07.307Z;click;2026-06-28T16:00:10.862Z;524;319;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_1.html;2026-06-28T16:00:10.957Z;click;2026-06-28T16:00:12.466Z;395;168;start_btn ;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_1.html;2026-06-28T16:00:10.957Z;click;2026-06-28T16:00:12.466Z;395;168;start_btn ;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_2.html;2026-06-28T16:00:12.580Z;click;2026-06-28T16:00:15.243Z;431;176;quarto_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_2.html;2026-06-28T16:00:12.580Z;click;2026-06-28T16:00:15.243Z;431;176;quarto_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_4.html;2026-06-28T16:00:15.345Z;click;2026-06-28T16:00:18.131Z;694;154;chall_3;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_4.html;2026-06-28T16:00:15.345Z;click;2026-06-28T16:00:18.131Z;694;154;chall_3;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_10.html;2026-06-28T16:00:18.221Z;click;2026-06-28T16:00:28.234Z;543;245;sim_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_10.html;2026-06-28T16:00:18.221Z;click;2026-06-28T16:00:28.234Z;543;245;sim_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_11.html;2026-06-28T16:00:28.377Z;click;2026-06-28T16:00:31.303Z;34;320;back_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_11.html;2026-06-28T16:00:28.377Z;click;2026-06-28T16:00:31.303Z;34;320;back_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_4.html;2026-06-28T16:00:31.463Z;click;2026-06-28T16:00:35.074Z;35;40;home_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_4.html;2026-06-28T16:00:31.463Z;click;2026-06-28T16:00:35.074Z;35;40;Sem label;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_2.html;2026-06-28T16:00:35.227Z;click;2026-06-28T16:00:41.379Z;438;174;quarto_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_2.html;2026-06-28T16:00:35.227Z;click;2026-06-28T16:00:41.379Z;438;174;quarto_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_4.html;2026-06-28T16:00:41.558Z;click;2026-06-28T16:00:45.791Z;45;44;Sem label;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_4.html;2026-06-28T16:00:41.558Z;click;2026-06-28T16:00:45.791Z;45;44;home_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_2.html;2026-06-28T16:00:45.933Z;click;2026-06-28T16:00:50.381Z;620;169;desafio_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_2.html;2026-06-28T16:00:45.933Z;click;2026-06-28T16:00:50.381Z;620;169;desafio_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_7.html;2026-06-28T16:00:50.587Z;click;2026-06-28T16:00:51.864Z;191;182;agrupar_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;drag_drop;2026-06-28T16:00:57.345Z;311;183;pass_1;fortes ( -Mt%a#oEr );drag_drop;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;drag_drop;2026-06-28T16:01:01.469Z;454;214;pass_2;fracas ( password );drag_drop;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;drag_drop;2026-06-28T16:01:04.603Z;433;237;pass_3;fracas ( 123456 );drag_drop;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;drag_drop;2026-06-28T16:01:06.142Z;448;270;pass_4;fracas ( .P!m_ad45sL );drag_drop;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;drag_drop;2026-06-28T16:01:09.724Z;403;272;pass_4;fortes ( .P!m_ad45sL );drag_drop;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;click;2026-06-28T16:01:13.274Z;390;322;verificar_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_3.html;2026-06-28T16:00:52.064Z;click;2026-06-28T16:01:13.274Z;390;322;verificar_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_14.html;2026-06-28T16:01:13.449Z;click;2026-06-28T16:01:17.067Z;38;327;back_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_14.html;2026-06-28T16:01:13.449Z;click;2026-06-28T16:01:17.067Z;38;327;back_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_7.html;2026-06-28T16:01:17.229Z;click;2026-06-28T16:01:26.485Z;697;39;close_btn;x;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;page_7.html;2026-06-28T16:01:17.229Z;click;2026-06-28T16:01:26.485Z;697;39;close_btn;x;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;5_final_questions.html;2026-06-28T16:01:26.632Z;click;2026-06-28T16:01:30.515Z;565;199;design_layout_negativo;1;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;5_final_questions.html;2026-06-28T16:01:26.632Z;click;2026-06-28T16:01:32.503Z;386;201;design_layout_positivo;3;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;5_final_questions.html;2026-06-28T16:01:26.632Z;click;2026-06-28T16:01:35.036Z;400;95;design_layout_positivo;3;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;5_final_questions.html;2026-06-28T16:01:26.632Z;click;2026-06-28T16:01:36.005Z;520;311;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;5_final_questions.html;2026-06-28T16:01:26.632Z;click;2026-06-28T16:01:36.005Z;520;311;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:01:37.190Z;463;105;sugestao1;;Caixa de Texto;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:01:39.656Z;0;0;sugestao1;;Caixa de Texto;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:01:40.505Z;0;0;sugestao1;;Caixa de Texto;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:01:41.671Z;0;0;sugestao1;;Caixa de Texto;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:01:42.608Z;0;0;sugestao1;;Caixa de Texto;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;input_change;2026-06-28T16:01:49.590Z;;;sugestao1;teste 12 3 453 2;textarea;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:01:49.810Z;485;223;sugestao2;;Caixa de Texto;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;input_change;2026-06-28T16:02:01.607Z;;;sugestao2;teste1234;textarea;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:02:01.827Z;529;325;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;6_final_questions.html;2026-06-28T16:01:36.152Z;click;2026-06-28T16:02:01.827Z;529;325;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;7_final_questions.html;2026-06-28T16:02:01.974Z;click;2026-06-28T16:02:07.154Z;502;242;sim;Sim;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;7_final_questions.html;2026-06-28T16:02:01.974Z;click;2026-06-28T16:02:08.290Z;534;323;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_th8519byn;7_final_questions.html;2026-06-28T16:02:01.974Z;click;2026-06-28T16:02:08.290Z;534;323;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;1_intro.html;2026-06-28T16:02:15.370Z;click;2026-06-28T16:02:17.088Z;488;305;entrar_btn;INICIAR;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;2_initial_questions.html;2026-06-28T16:02:17.177Z;click;2026-06-28T16:02:18.311Z;544;103;18-25;18-25;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;2_initial_questions.html;2026-06-28T16:02:17.177Z;click;2026-06-28T16:02:19.329Z;523;317;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;2_initial_questions.html;2026-06-28T16:02:17.177Z;click;2026-06-28T16:02:19.329Z;523;317;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;3_initial_questions.html;2026-06-28T16:02:19.397Z;click;2026-06-28T16:02:21.501Z;481;157;um_pouco;Um pouco;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;3_initial_questions.html;2026-06-28T16:02:19.397Z;click;2026-06-28T16:02:22.525Z;532;326;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;3_initial_questions.html;2026-06-28T16:02:19.397Z;click;2026-06-28T16:02:22.525Z;532;326;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;4_initial_questions.html;2026-06-28T16:02:22.620Z;click;2026-06-28T16:02:23.786Z;496;222;sim;Sim;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;4_initial_questions.html;2026-06-28T16:02:22.620Z;click;2026-06-28T16:02:24.789Z;531;313;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;4_initial_questions.html;2026-06-28T16:02:22.620Z;click;2026-06-28T16:02:24.789Z;531;313;avancar;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_1.html;2026-06-28T16:02:24.873Z;click;2026-06-28T16:02:25.743Z;397;183;start_btn ;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_1.html;2026-06-28T16:02:24.873Z;click;2026-06-28T16:02:25.743Z;397;183;start_btn ;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_2.html;2026-06-28T16:02:25.823Z;click;2026-06-28T16:02:28.218Z;310;173;recreio_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_2.html;2026-06-28T16:02:25.823Z;click;2026-06-28T16:02:28.218Z;310;173;recreio_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_5.html;2026-06-28T16:02:28.306Z;click;2026-06-28T16:02:30.429Z;126;202;chall_1;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_5.html;2026-06-28T16:02:28.306Z;click;2026-06-28T16:02:30.429Z;126;202;chall_1;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_6.html;2026-06-28T16:02:30.543Z;click;2026-06-28T16:02:33.583Z;541;242;sim_btn;;Imagem / Ícone;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_8.html;2026-06-28T16:02:33.734Z;click;2026-06-28T16:02:35.565Z;35;327;back_btn;;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_5.html;2026-06-28T16:02:35.675Z;click;2026-06-28T16:02:37.658Z;694;44;close_btn;x;Botão / Área de Clique;Windows;Chrome 149.0.0.0
+Sessao_fqjm97rwl;page_5.html;2026-06-28T16:02:35.675Z;click;2026-06-28T16:02:37.658Z;694;44;close_btn;x;Botão / Área de Clique;Windows;Chrome 149.0.0.0
