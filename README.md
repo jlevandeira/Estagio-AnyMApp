@@ -1,6 +1,6 @@
 # Estágio AnyMApp
 
-Este repositório contém a framework de telemetria desenvolvida no âmbito do Estágio do Mestrado em Bioinformática e Biologia Computacional / Licenciatura em Ciência de Computadores pelo Departamento de Ciência de Computadores da Faculdade de Ciências da Universidade do Porto (DCC/FCUP) em parceria com a Faculdade de Medicina da Universidade do Porto (FMUP).
+Este repositório contém a framework de telemetria desenvolvida no âmbito do Estágio da Licenciatura em Ciência de Computadores pelo Departamento de Ciência de Computadores da Faculdade de Ciências da Universidade do Porto (DCC/FCUP) em parceria com a Faculdade de Medicina da Universidade do Porto (FMUP).
 
 ## Nota de Confidencialidade e Propriedade Intelectual
 Por questões de privacidade, sigilo médico e proteção de propriedade intelectual da instituição de acolhimento, e de acordo com as indicações da orientadora, **este repositório não contém os protótipos de alta fidelidade completos** (ficheiros HTML, CSS e imagens proprietárias dos projetos *Inspirers-HTN*, *3CARATkids* ou do Jogo). 
