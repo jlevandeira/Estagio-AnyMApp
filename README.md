@@ -40,3 +40,21 @@ Para aplicar a telemetria desenvolvida em qualquer página HTML estática:
 1. **Importação do Rastreio:** Importe o script do tracker no cabeçalho ou fim do ficheiro HTML:
    ```html
    <script src="path/to/tracker.js"></script>
+
+---
+
+## Documentação de Referência e APIs Utilizadas
+
+A implementação das funcionalidades e algoritmos presentes nesta framework de telemetria baseou-se nas seguintes documentações oficiais de APIs e bibliotecas:
+
+### 1. APIs Nativas do Navegador (Web APIs)
+* [**MDN Web Docs - Element.getBoundingClientRect()**](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect): Documentação de referência para obter o posicionamento absoluto e as coordenadas dos limites físicos (*bounding boxes*) de elementos no ecrã. Serviu de base matemática para o algoritmo de cálculo de interseção geométrica do *Drag-and-Drop*.
+* [**MDN Web Docs - SessionStorage API**](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage): Guia de utilização do armazenamento de sessão do navegador, utilizado para a persistência temporária da fila de eventos resiliente e para a gestão anónima de `session_id`.
+* [**JavaScript.info - Bubble and Capture**](https://javascript.info/bubbling-and-capturing): Artigo técnico explicativo sobre os ciclos de vida e fases de propagação de eventos no DOM. Utilizado para fundamentar a escolha da fase de captura (`addEventListener(..., true)`) para contornar o bloqueio de eventos pelo motor interno do Axure RP.
+
+### 2. Desenvolvimento de Servidor e Base de Dados (Backend)
+* [**Documentação Oficial do Express.js**](https://expressjs.com/): Manual e API de referência para a estruturação do servidor web local, criação de endpoints (rota POST `/api/track`) e configuração de middlewares de segurança e processamento de payloads (`cors` e `express.json`).
+* [**Mongoose ODM - Schemas Guide**](https://mongoosejs.com/docs/guide.html): Documentação oficial do Mongoose contendo os padrões para definição de esquemas JSON, validação de tipos de dados e instanciação de modelos para persistência de documentos na coleção MongoDB.
+
+### 3. Integrações na Nuvem (Firebase)
+* [**Firebase Cloud Firestore - Web SDK**](https://firebase.google.com/docs/firestore): Manual do desenvolvedor para ligação cliente-base de dados do Firestore. Utilizado para a configuração das regras de segurança de escrita anónima e para as importações dinâmicas assíncronas do SDK v10 do Firebase no browser.
